@@ -1,4 +1,3 @@
-# Import Flask modules
 from flask import Flask, render_template, request
 # Create an object named app
 app = Flask(__name__)
